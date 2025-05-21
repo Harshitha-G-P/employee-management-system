@@ -1,4 +1,4 @@
-# employee-management-system
+# python-employee-management-system
 
 Welcome to the Employee Management System Python project 
 
